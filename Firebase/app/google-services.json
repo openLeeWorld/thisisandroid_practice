@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "840693491641",
+    "firebase_url": "https://this-is-android-with-kot-9126d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "this-is-android-with-kot-9126d",
+    "storage_bucket": "this-is-android-with-kot-9126d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840693491641:android:d024086cb42efe57eeb868",
+        "android_client_info": {
+          "package_name": "net.flow9.thisisKotlin.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTsgNIK4tiaL-kaNNubfvgpFydQs1Z9D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

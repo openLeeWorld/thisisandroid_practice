@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BasicSyntax</string>
+    <!-- 새로 추가 -->
+    <string name="string_01">화면에 보여질 글자1</string>
+    <string name="hint">여기에 입력하세요</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
